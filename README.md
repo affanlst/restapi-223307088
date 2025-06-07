@@ -3,7 +3,7 @@
 <p align="center">
   <strong>Affan Naufal Syarif Al Ghifari</strong><br/>
   <code>223307088</code> | <code>Kelas 6D</code><br/>
-  Universitas Teknologi Indonesia<br/>
+  Politeknik Negeri Madiun<br/>
 </p>
 
 <p align="center">

@@ -44,6 +44,7 @@ php artisan migrate
 
 # Jalankan server lokal
 php artisan serve
+```
 <h2>📚 Tabel Dokumentasi API</h2>
 
 <table border="1" cellspacing="0" cellpadding="6">
